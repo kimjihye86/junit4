@@ -300,6 +300,8 @@
                 process and then package the Javadoc
                 in jar archive target/junit-*-javadoc.jar.
                 -->
+                <!--  -->
+                
                 <artifactId>maven-javadoc-plugin</artifactId>
                 <version>2.10.3</version>
                 <configuration>
