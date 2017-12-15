@@ -276,6 +276,7 @@
                     
                     <testFailurelgnore>true</testFailurelgnore>
                     
+                    
                 </configuration>
                 <dependencies>
                     <dependency>
